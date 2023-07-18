@@ -42,5 +42,4 @@ const ChannelCard = ({channelDetail, marginTop}) => {
     </Box>
   )
 }
-
 export default ChannelCard
